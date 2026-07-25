@@ -1,0 +1,21 @@
+{
+  "token": "0e888fbc-d4cf-491b-93a9-124d895bd036",
+  "titulo": "DOCUMENTO VIGENTE Y APROBADO",
+  "css": "ok",
+  "campos": {
+    "Proyecto": "6 ENTREGAS",
+    "Documento": "ANEXO C_ SETTING LVCB (LVSST-TM-MCP)",
+    "Revisión escaneada": "A",
+    "Revisión vigente": "A",
+    "Estado registro": "APROBADO",
+    "Fecha aprobación": "2026-07-25",
+    "Aprobador": "Ingeniería Protecciones",
+    "Equipo": "—",
+    "Relé": "—",
+    "Lote entrega": "2026-07-25_RevA"
+  },
+  "documento": "ANEXO C_ SETTING LVCB (LVSST-TM-MCP)",
+  "revision": "A",
+  "vigente": "SI",
+  "estado": "APROBADO"
+}
