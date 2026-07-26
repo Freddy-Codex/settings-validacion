@@ -1,0 +1,21 @@
+{
+  "token": "ba1a4212-6b16-4aab-b39a-5ce4e126f715",
+  "titulo": "DOCUMENTO VIGENTE Y APROBADO",
+  "css": "ok",
+  "campos": {
+    "Proyecto": "DATA CENTER SCALA SSCLHB02",
+    "Documento": "SISTEMA-GS - Setting_compilado",
+    "Revisión escaneada": "REV. 0",
+    "Revisión vigente": "REV. 0",
+    "Estado registro": "APROBADO",
+    "Fecha aprobación": "2026-07-25",
+    "Aprobador": "Ingeniería Protecciones",
+    "Equipo": "—",
+    "Relé": "—",
+    "Lote entrega": "2026-07-25_RevREV. 0"
+  },
+  "documento": "SISTEMA-GS - Setting_compilado",
+  "revision": "REV. 0",
+  "vigente": "SI",
+  "estado": "APROBADO"
+}
