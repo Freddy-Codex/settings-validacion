@@ -1,0 +1,21 @@
+{
+  "token": "ff06c26f-436d-40f7-bd6b-6f85fc1c9de4",
+  "titulo": "DOCUMENTO VIGENTE Y APROBADO",
+  "css": "ok",
+  "campos": {
+    "Proyecto": "DATA CENTER SCALA LP01",
+    "Documento": "SISTEMA-GS - Setting_compilado",
+    "Revisión escaneada": "0",
+    "Revisión vigente": "0",
+    "Estado registro": "APROBADO",
+    "Fecha aprobación": "2026-07-25",
+    "Aprobador": "Ingeniería Protecciones",
+    "Equipo": "—",
+    "Relé": "—",
+    "Lote entrega": "2026-07-25_Rev0"
+  },
+  "documento": "SISTEMA-GS - Setting_compilado",
+  "revision": "0",
+  "vigente": "SI",
+  "estado": "APROBADO"
+}
