@@ -1,0 +1,20 @@
+{
+  "token": "51452b49-ae78-4cda-84b5-59687fad6368",
+  "titulo": "DOCUMENTO VIGENTE Y APROBADO",
+  "css": "ok",
+  "campos": {
+    "Proyecto": "DATA CENTER SCALA SSCLHB02",
+    "Documento": "ANEXO C — SETTINGS LVCB",
+    "Revisión escaneada": "REV. 3",
+    "Revisión vigente": "REV. 3",
+    "Estado registro": "APROBADO",
+    "Fecha emisión": "2026-07-28",
+    "Fecha aprobación": "2026-07-28",
+    "Aprobador": "EDUARDO PEREZ",
+    "Lote entrega": "2026-07-28_RevREV. 3"
+  },
+  "documento": "ANEXO C — SETTINGS LVCB",
+  "revision": "REV. 3",
+  "vigente": "SI",
+  "estado": "APROBADO"
+}
