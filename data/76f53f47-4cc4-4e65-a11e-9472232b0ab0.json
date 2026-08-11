@@ -1,12 +1,12 @@
 {
   "token": "76f53f47-4cc4-4e65-a11e-9472232b0ab0",
-  "titulo": "DOCUMENTO VIGENTE Y APROBADO",
-  "css": "ok",
+  "titulo": "DOCUMENTO OBSOLETO",
+  "css": "bad",
   "campos": {
     "Proyecto": "DATA CENTER SCALA SSCLHB02",
     "Revisión escaneada": "REV. 3",
-    "Revisión vigente": "REV. 3",
-    "Estado registro": "APROBADO",
+    "Revisión vigente": "REV. 4",
+    "Estado registro": "OBSOLETO",
     "Fecha emisión": "2026-07-28",
     "Fecha aprobación": "2026-07-28",
     "Aprobador": "EDUARDO PEREZ",
@@ -14,6 +14,6 @@
   },
   "documento": "Documento de Setting de Protecciones BT",
   "revision": "REV. 3",
-  "vigente": "SI",
-  "estado": "APROBADO"
+  "vigente": "NO",
+  "estado": "OBSOLETO"
 }

@@ -1,0 +1,19 @@
+{
+  "token": "9e0699f3-d8c4-489b-86ef-882b773b4e9c",
+  "titulo": "DOCUMENTO VIGENTE Y APROBADO",
+  "css": "ok",
+  "campos": {
+    "Proyecto": "DATA CENTER SSCLHB02",
+    "Revisión escaneada": "REV. 4",
+    "Revisión vigente": "REV. 4",
+    "Estado registro": "APROBADO",
+    "Fecha emisión": "2026-08-11",
+    "Fecha aprobación": "2026-08-11",
+    "Aprobador": "EDUARDO PEREZ",
+    "Lote entrega": "2026-08-11_RevREV. 4"
+  },
+  "documento": "Documento de Setting de Protecciones BT",
+  "revision": "REV. 4",
+  "vigente": "SI",
+  "estado": "APROBADO"
+}
