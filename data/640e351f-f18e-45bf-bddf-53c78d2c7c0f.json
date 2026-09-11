@@ -1,0 +1,19 @@
+{
+  "token": "640e351f-f18e-45bf-bddf-53c78d2c7c0f",
+  "titulo": "DOCUMENTO VIGENTE Y APROBADO",
+  "css": "ok",
+  "campos": {
+    "Proyecto": "NEXTSTREAM – Denver F2 DC Apoquindo",
+    "Revisión escaneada": "REV. B",
+    "Revisión vigente": "REV. B",
+    "Estado registro": "APROBADO",
+    "Fecha emisión": "2026-09-11",
+    "Fecha aprobación": "2026-09-11",
+    "Aprobador": "EDUARDO PEREZ",
+    "Lote entrega": "2026-09-11_RevREV. B"
+  },
+  "documento": "Documento de Setting de Protecciones BT",
+  "revision": "REV. B",
+  "vigente": "SI",
+  "estado": "APROBADO"
+}
