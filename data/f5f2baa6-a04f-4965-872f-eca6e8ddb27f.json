@@ -1,0 +1,19 @@
+{
+  "token": "f5f2baa6-a04f-4965-872f-eca6e8ddb27f",
+  "titulo": "DOCUMENTO VIGENTE Y APROBADO",
+  "css": "ok",
+  "campos": {
+    "Proyecto": "Data Center Scala SSCLCR01",
+    "Revisión escaneada": "REV. 0",
+    "Revisión vigente": "REV. 0",
+    "Estado registro": "APROBADO",
+    "Fecha emisión": "2026-10-01",
+    "Fecha aprobación": "2026-10-01",
+    "Aprobador": "EDUARDO PEREZ",
+    "Lote entrega": "2026-10-01_RevREV. 0"
+  },
+  "documento": "Documento de Setting de Protecciones BT",
+  "revision": "REV. 0",
+  "vigente": "SI",
+  "estado": "APROBADO"
+}
