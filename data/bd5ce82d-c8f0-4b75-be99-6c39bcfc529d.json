@@ -1,0 +1,19 @@
+{
+  "token": "bd5ce82d-c8f0-4b75-be99-6c39bcfc529d",
+  "titulo": "DOCUMENTO VIGENTE Y APROBADO",
+  "css": "ok",
+  "campos": {
+    "Proyecto": "Data Center Scala SSCLL0P01",
+    "Revisión escaneada": "REV. 9",
+    "Revisión vigente": "REV. 9",
+    "Estado registro": "APROBADO",
+    "Fecha emisión": "2026-10-21",
+    "Fecha aprobación": "2026-10-21",
+    "Aprobador": "EDUARDO PEREZ",
+    "Lote entrega": "2026-10-21_RevREV. 9"
+  },
+  "documento": "Documento de Setting de Protecciones MT",
+  "revision": "REV. 9",
+  "vigente": "SI",
+  "estado": "APROBADO"
+}
