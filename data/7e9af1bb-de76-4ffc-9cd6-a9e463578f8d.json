@@ -1,0 +1,19 @@
+{
+  "token": "7e9af1bb-de76-4ffc-9cd6-a9e463578f8d",
+  "titulo": "DOCUMENTO VIGENTE Y APROBADO",
+  "css": "ok",
+  "campos": {
+    "Proyecto": "Data Center Scala SSCLHB02",
+    "Revisión escaneada": "REV. 3",
+    "Revisión vigente": "REV. 3",
+    "Estado registro": "APROBADO",
+    "Fecha emisión": "2026-10-23",
+    "Fecha aprobación": "2026-10-23",
+    "Aprobador": "EDUARDO PEREZ",
+    "Lote entrega": "2026-10-23_RevREV. 3"
+  },
+  "documento": "Documento de Setting de Protecciones MT",
+  "revision": "REV. 3",
+  "vigente": "SI",
+  "estado": "APROBADO"
+}
