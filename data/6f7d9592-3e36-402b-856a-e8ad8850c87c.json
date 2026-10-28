@@ -1,12 +1,12 @@
 {
   "token": "6f7d9592-3e36-402b-856a-e8ad8850c87c",
-  "titulo": "DOCUMENTO VIGENTE Y APROBADO",
-  "css": "ok",
+  "titulo": "DOCUMENTO OBSOLETO",
+  "css": "bad",
   "campos": {
     "Proyecto": "DC-SSCLL0P01",
     "Revisión escaneada": "R1",
-    "Revisión vigente": "R1",
-    "Estado registro": "APROBADO",
+    "Revisión vigente": "Base",
+    "Estado registro": "OBSOLETO",
     "Fecha emisión": "2026-10-28",
     "Fecha aprobación": "2026-10-27",
     "Aprobador": "EDUARDO PEREZ",
@@ -14,6 +14,6 @@
   },
   "documento": "Documento de Setting de Protecciones BT",
   "revision": "R1",
-  "vigente": "SI",
-  "estado": "APROBADO"
+  "vigente": "NO",
+  "estado": "OBSOLETO"
 }
