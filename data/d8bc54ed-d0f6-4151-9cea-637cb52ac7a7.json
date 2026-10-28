@@ -1,0 +1,19 @@
+{
+  "token": "d8bc54ed-d0f6-4151-9cea-637cb52ac7a7",
+  "titulo": "DOCUMENTO VIGENTE Y APROBADO",
+  "css": "ok",
+  "campos": {
+    "Proyecto": "DC-SSCLLP01",
+    "Revisión escaneada": "Rev.10",
+    "Revisión vigente": "Rev.10",
+    "Estado registro": "APROBADO",
+    "Fecha emisión": "2026-10-28",
+    "Fecha aprobación": "2026-10-28",
+    "Aprobador": "EDUARDO PEREZ",
+    "Lote entrega": "2026-10-28_RevRev.10"
+  },
+  "documento": "Documento de Setting de Protecciones BT",
+  "revision": "Rev.10",
+  "vigente": "SI",
+  "estado": "APROBADO"
+}
