@@ -1,0 +1,19 @@
+{
+  "token": "e694b564-ec26-4ef5-9354-5f7e217c0e03",
+  "titulo": "DOCUMENTO VIGENTE Y APROBADO",
+  "css": "ok",
+  "campos": {
+    "Proyecto": "Celdas Jameson LSL1",
+    "Revisión escaneada": "Rev.C",
+    "Revisión vigente": "Rev.C",
+    "Estado registro": "APROBADO",
+    "Fecha emisión": "2026-10-27",
+    "Fecha aprobación": "2026-10-27",
+    "Aprobador": "EDUARDO PEREZ",
+    "Lote entrega": "2026-10-27_RevRev.C"
+  },
+  "documento": "Documento de Setting de Protecciones BT",
+  "revision": "Rev.C",
+  "vigente": "SI",
+  "estado": "APROBADO"
+}
