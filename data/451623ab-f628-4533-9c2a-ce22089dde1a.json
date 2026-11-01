@@ -1,0 +1,19 @@
+{
+  "token": "451623ab-f628-4533-9c2a-ce22089dde1a",
+  "titulo": "DOCUMENTO VIGENTE Y APROBADO",
+  "css": "ok",
+  "campos": {
+    "Proyecto": "DC-TIGO",
+    "Revisión escaneada": "Rev.0",
+    "Revisión vigente": "Rev.0",
+    "Estado registro": "APROBADO",
+    "Fecha emisión": "2026-11-01",
+    "Fecha aprobación": "2026-11-01",
+    "Aprobador": "EDUARDO PEREZ",
+    "Lote entrega": "2026-11-01_RevRev.0"
+  },
+  "documento": "Documento de Setting de Protecciones BT",
+  "revision": "Rev.0",
+  "vigente": "SI",
+  "estado": "APROBADO"
+}
